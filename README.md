@@ -1,7 +1,4 @@
 # DSA coursework
-
-## Menu
-
 - [🔗 Software](#recommended-software)
 - [📚 Topic](#term-papers---vehicle-register)
   - [🌐 Introduction](#introduction)
