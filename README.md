@@ -2,31 +2,31 @@
 
 ## Menu
 
-- [Software](#recommended-software)
-- [Topic](#term-papers---vehicle-register)
-  - [Introduction](#introduction)
-  - [Problem area](#problem-area)
-  - [Proposed solution](#proposed-solution)
-    - [Data structures](#data-structures)
-    - [Classification and sorting operations](#classification-and-sorting-operations)
-    - [Data search and display](#data-search-and-display)
-    - [Managing offences](#managing-offences)
-    - [Controlling the application](#controlling-the-application)
-  - [Conclusion](#conclusion)
+- [🔗 Software](#recommended-software)
+- [📚 Topic](#term-papers---vehicle-register)
+  - [🌐 Introduction](#introduction)
+  - [🎯 Problem area](#problem-area)
+  - [💡 Proposed solution](#proposed-solution)
+    - [📊 Data structures](#data-structures)
+    - [🔍 Classification and sorting operations](#classification-and-sorting-operations)
+    - [🔎 Data search and display](#data-search-and-display)
+    - [🚨 Managing offences](#managing-offences)
+    - [🕹️ Controlling the application](#controlling-the-application)
+  - [🔚 Conclusion](#conclusion)
 
-## Recommended software
+## 🔗 Recommended software
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
-## Term Papers - Vehicle Register
+## 📚 Term Papers - Vehicle Register
 
 Topic: Vehicle Register (topic 13)
 
-### Introduction
+### 🌐 Introduction
 
 The vehicle registry is a key application that addresses the problem of efficiently managing information about vehicles and their drivers. This term paper focuses on the design and implementation of a C++ application using the Visual Studio environment.
 
-### Problem area
+### 🎯 Problem area
 
 Currently, there is a lack of an effective tool for tracking and penalizing drivers with high number of demerit points. Our application focuses on solving the following problems:
 
@@ -34,34 +34,34 @@ Currently, there is a lack of an effective tool for tracking and penalizing driv
 - Lack of an effective list of drivers with high number of points for infractions.
 - The need to store detailed records of offences.
 
-### Proposed solution
+### 💡 Proposed solution
 
-#### Data structures
+#### 📊 Data structures
 
 - A list for storing vehicle information.
 - List for storing driver information.
 - List for keeping records of offences.
 
-#### Classification and sorting operations
+#### 🔍 Classification and sorting operations
 
 - Implementation of data classification operations in a sorted sequence of vehicles and drivers.
 - Possibility to sort data according to different criteria such as number of points for offences.
 
-#### Data search and display
+#### 🔎 Data search and display
 
 - Functionality to search vehicles and drivers according to different criteria.
 - Display a list of vehicles driven by a specific driver and vice versa.
 
-#### Managing offences
+#### 🚨 Managing offences
 
 - Creation of a list of "offenders" based on the number of points for offences.
 - Storing records of individual offences.
 
-#### Controlling the application
+#### 🕹️ Controlling the application
 
 - User-friendly menu for easy operation of the application.
 - Implementation of intuitive operations and data manipulation.
 
-### Conclusion
+### 🔚 Conclusion
 
 Our application should efficiently solve the problem of tracking and managing information about vehicles, drivers and offenders. By using C++ data structures and algorithms, our solution will be robust and user-friendly.
